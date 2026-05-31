@@ -110,3 +110,6 @@ branch = true
 fail_under = 100
 skip_covered = true
 show_missing = true
+
+[tool.setuptools]
+py-modules = ["_install_hook"]
